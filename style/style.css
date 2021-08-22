@@ -53,6 +53,7 @@ body {
   color: white;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
+  text-decoration: none;
 }
 
 .navbar__nav__items {
